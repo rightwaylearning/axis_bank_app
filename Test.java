@@ -6,9 +6,9 @@ class Test{
      int b = 20;
  
      if(a>b){
-      System.out.println("a is big number");
+      System.out.println(a+ " is big number");
      }else{
-       System.out.println("b is big number");
+       System.out.println(b +" is big number");
      }
     
   }
